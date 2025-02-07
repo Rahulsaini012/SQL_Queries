@@ -244,10 +244,15 @@ FROM orders;
    ![3](https://github.com/user-attachments/assets/1dd143ab-f897-4f17-9100-989c51b37bba)
 
 
-  ## **Connect with me**  
-- 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
-- 📧 Email:shubhamkashyap9501@gmail.com
-- LinkedIn: [Linkedin_link](https://www.linkedin.com/in/shubham0786/)
+### 📬 Contact
+
+For inquiries or issues, contact me:
+
+
+Email:pb65rahulsaini@gmail.com
+
+
+Linkedin: https://www.linkedin.com/in/rahul-saini-2b4b33337/
 
    
 
